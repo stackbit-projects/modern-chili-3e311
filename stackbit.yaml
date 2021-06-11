@@ -1,0 +1,29 @@
+stackbitVersion: ~0.3.0
+ssgName: jekyll
+publishDir: _site
+dataDir: _data
+pagesDir: ''
+models:
+  post:
+    type: page
+    label: Post
+    folder: _posts
+    match: '*'
+    fields:
+      - type: string
+        name: layout
+        label: Layout
+      - type: string
+        name: section-type
+        label: Section Type
+      - type: string
+        name: title
+        label: Title
+      - type: string
+        name: category
+        label: Category
+      - type: list
+        name: tags
+        label: Tags
+        items:
+          type: string
