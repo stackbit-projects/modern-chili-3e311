@@ -7,7 +7,10 @@
 
 You can watch it in action [here](https://le4ker.github.io/personal-jekyll-theme/)!
 
-<img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-mobile.mov.gif" height="480">
+<img src="https://github.com/le4ker/personal-jekyll-theme static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
+--> static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
+--> static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
+-->/raw/master/.github/personal-mobile.mov.gif" height="480">
 
 <img src="https://github.com/le4ker/personal-jekyll-theme/raw/master/.github/personal-desktop.mov.gif" height="600" width="960">
 
